@@ -1,0 +1,83 @@
+0  : 55, 0, 32, 39, 0    : Bonk walking right 1
+1  : 88, 0, 22, 39, 0   : Bonk walking right 2
+2  : 110, 0, 25, 39, 0   : Bonk walking right 3
+3  : 134, 0, 33, 39, 0   : Bonk walking right 4
+4  : 134, 0, 37, 39, 0    : Bonk walking right 5
+5  : 172, 0, 28, 39, 0   : Bonk walking right 6
+6  : 202, 0, 22, 39, 0   : Bonk walking right 7
+7  : 226, 0, 28, 39, 0   : Bonk walking right 8
+8  : 254, 0, 34, 39, 0   : Bonk walking right 9
+9  : 287, 0, 35, 39, 0   : Bonk walking right 10
+
+10  : 55, 0, 32, 39, 1    : Bonk walking left 1
+11  : 88, 0, 22, 39, 1   : Bonk walking left 2
+12  : 110, 0, 25, 39, 1   : Bonk walking left 3
+13  : 134, 0, 33, 39, 1   : Bonk walking left 4
+14  : 134, 0, 37, 39, 1    : Bonk walking left 5
+15  : 172, 0, 28, 39, 1   : Bonk walking left 6
+16  : 202, 0, 22, 39, 1   : Bonk walking left 7
+17  : 226, 0, 28, 39, 1   : Bonk walking left 8
+18  : 254, 0, 34, 39, 1   : Bonk walking left 9
+19  : 287, 0, 35, 39, 1   : Bonk walking left 10
+
+
+20  : 405, 66, 28, 32, 0  : Bonk jumping right
+21  : 163, 60, 24, 32, 0  : Bonk falling right
+22 : 405, 66, 28, 32, 1  : Bonk jumping left
+23 : 163, 60, 24, 32, 1  : Bonk falling left
+
+
+24 : 7, 0, 33, 38, 0  : Bonk standing 1
+25 : 7, 0, 33, 38, 0  : Bonk standing 2
+26 : 7, 0, 33, 38, 0  : Bonk standing 3
+
+
+27 : 0, 256, 28, 32, 0   : Bonk jumping/falling front
+
+
+28 : 80, 265, 32, 30, 0  : Enemy up 1
+29 : 120, 265, 32, 30, 0 : Enemy up 2
+30 : 162, 265, 32, 30, 0 : Enemy down 1
+31 : 199, 265, 32, 30, 0 : Enemy down 2
+32 : 237, 265, 32, 30, 0 : Enemy front
+33 : 316, 300, 16, 16, 0 : Cloud left			{
+34 : 332, 300, 16, 16, 0 : Cloud right			}
+35 : 348, 300, 16, 16, 0 : Empty sky			.
+36 : 364, 300, 16, 16, 0 : Sky semi
+37 : 380, 300, 16, 16, 0 : Sky dark
+38 : 396, 300, 16, 16, 0 : Plant left
+39 : 412, 300, 16, 16, 0 : Plant center
+40 : 428, 300, 16, 16, 0 : Plant right
+41 : 302, 318, 12, 12, 0 : Coin 1
+42 : 318, 318, 12, 12, 0 : Coin 2
+43 : 334, 318, 12, 12, 0 : Coin 3
+44 : 350, 318, 12, 12, 0 : Coin 4
+45 : 366, 318, 12, 12, 0 : Coin 5
+46 : 380, 316, 16, 16, 0 : Plant single
+47 : 396, 316, 16, 16, 0 : Platform left		<
+48 : 412, 316, 16, 16, 0 : Platform center		-
+49 : 428, 316, 16, 16, 0 : Platform right		>
+50 : 300, 332, 16, 16, 0 : Box
+51 : 316, 332, 16, 16, 0 : Plant A
+52 : 332, 332, 16, 16, 0 : Column				|
+53 : 348, 332, 16, 16, 0 : Plant B
+54 : 364, 332, 16, 16, 0 : Ground single
+55 : 380, 332, 16, 16, 0 : Plant C
+56 : 396, 332, 16, 16, 0 : Ground left			[
+57 : 412, 332, 16, 16, 0 : Ground center		#
+58 : 428, 332, 16, 16, 0 : Ground right			]
+
+59 : 0, 212, 32, 32, 0   : Bonk dying 1
+60 : 37, 212, 28, 32, 0  : Bonk dying 2
+61 : 71, 212, 28, 32, 0  : Bonk dying 3
+62 : 107, 212, 28, 32, 0 : Bonk dying 4
+63 : 140, 212, 28, 32, 0 : Bonk dying 5
+
+64 : 8, 46, 27, 38, 0 : bonk jumping 1
+65 : 39, 44, 18, 44, 0 : bonk jumping 2
+
+66 : 9, 153, 51, 39, 0 :volador1
+67 : 67, 148, 51, 44, 0 :volador2
+68 : 9, 96, 26, 39, 0 :muerte
+69 : 39, 96, 33, 38, 0 :muerte2
+99 : 8, 95, 27, 38, 0 : bonk jumping 1
